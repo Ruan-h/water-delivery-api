@@ -1,6 +1,6 @@
 ### **WaterDelivery - Backend API**
 
-Esta é uma API desenvolvida em ASP.NET Core como parte de um estudo sobre arquitetura de back-end, segurança e persistência de dados. O projeto funciona como um MVP (Minimum Viable Product) para a gestão de um estabelecimento de entrega de garrafões de água, permitindo o controle desde o registro do cliente até a logística final.
+Esta é uma API desenvolvida em ASP.NET Core como parte de um estudo sobre arquitetura de back-end, segurança e persistência de dados. O projeto funciona como um MVP (Minimum Viable Product) para a gestão de um estabelecimento de entrega de garrafões de água, permitindo o controle desde o registro do cliente até a entrega da água.
 
 📽️ **Demonstração em Vídeo**
 
@@ -28,7 +28,6 @@ Para garantir a escalabilidade e a fácil manutenção, o projeto foi estruturad
 - **Registro de Clientes:** Cadastro seguro para acesso à plataforma.
 - **Pedidos Flexíveis:** Opção de pedido imediato ou agendamento de horário para a entrega do garrafão.
 - **Painel Administrativo:** O administrador acompanha todos os pedidos em tempo real.
-- **Gestão de Status:** Fluxo completo de atualização do pedido (Pendente -> Em Entrega -> Entregue), garantindo transparência para o cliente.
 
 🏗️ **Destaques Técnicos**
 
