@@ -5,6 +5,12 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterDelivery.API", "WaterDelivery.API\WaterDelivery.API.csproj", "{54CC1AE8-751D-4ADC-A8F8-95CBD259C71E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterDelivery.Domain", "WaterDelivery.Domain\WaterDelivery.Domain.csproj", "{D6996305-2867-49EA-99E8-98FD0ACA4412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterDelivery.Application", "WaterDelivery.Application\WaterDelivery.Application.csproj", "{2592A383-887F-4F00-A08F-1A141BEC45A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterDelivery.Infrastructure", "WaterDelivery.Infrastructure\WaterDelivery.Infrastructure.csproj", "{02375582-D03C-4694-91D0-D1F10CA9B564}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +24,17 @@ Global
 		{54CC1AE8-751D-4ADC-A8F8-95CBD259C71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54CC1AE8-751D-4ADC-A8F8-95CBD259C71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54CC1AE8-751D-4ADC-A8F8-95CBD259C71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6996305-2867-49EA-99E8-98FD0ACA4412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6996305-2867-49EA-99E8-98FD0ACA4412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6996305-2867-49EA-99E8-98FD0ACA4412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6996305-2867-49EA-99E8-98FD0ACA4412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2592A383-887F-4F00-A08F-1A141BEC45A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2592A383-887F-4F00-A08F-1A141BEC45A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2592A383-887F-4F00-A08F-1A141BEC45A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2592A383-887F-4F00-A08F-1A141BEC45A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02375582-D03C-4694-91D0-D1F10CA9B564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02375582-D03C-4694-91D0-D1F10CA9B564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02375582-D03C-4694-91D0-D1F10CA9B564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02375582-D03C-4694-91D0-D1F10CA9B564}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
