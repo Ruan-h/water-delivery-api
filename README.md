@@ -19,6 +19,7 @@ O projeto foi construído utilizando o ecossistema do .NET 8:
 🏗️ **Arquitetura e Organização**
 Para garantir a escalabilidade e a fácil manutenção, o projeto foi estruturado utilizando princípios de **Clean Architecture** e **DDD (Domain-Driven Design)**, dividido nas seguintes camadas:
 
+- **Presentation (API):** Ponto de entrada do sistema, contendo os Controllers,
 - **Domain:** Contém as entidades de negócio e regras fundamentais.
 - **Application:** Onde reside a lógica de uso (comandos, consultas e interfaces).
 - **Infrastructure:** Responsável pela persistência (EF Core) e integração com o PostgreSQL.
