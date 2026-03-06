@@ -4,6 +4,7 @@ Esta é uma API desenvolvida em ASP.NET Core como parte de um estudo sobre arqui
 
 📽️ **Demonstração em Vídeo**
 
+https://youtu.be/vo00-ewBMnA
 
 🛠️ **Tecnologias e Ferramentas**
 O projeto foi construído utilizando o ecossistema do .NET 8:
