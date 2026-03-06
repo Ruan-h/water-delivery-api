@@ -6,6 +6,8 @@ Esta é uma API desenvolvida em ASP.NET Core como parte de um estudo sobre arqui
 
 https://youtu.be/vo00-ewBMnA
 
+Usei um Frontend simples para consumir a API.
+
 🛠️ **Tecnologias e Ferramentas**
 O projeto foi construído utilizando o ecossistema do .NET 8:
 
